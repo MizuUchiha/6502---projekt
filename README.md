@@ -5,8 +5,8 @@ Ten projekt jest symulatorem procesora 6502, który był używany w popularnych 
 Aby uruchomić projekt, należy pobrać go z repozytorium GitHub i zainstalować zależności. Można to zrobić za pomocą następujących poleceń w terminalu:
 
 ```bash
-git clone https://github.com/NazwaTwojegoRepozytorium.git
-cd NazwaTwojegoRepozytorium
+git clone https://github.com/MizuUchiha/6502---projekt.git
+cd 6502---projekt
 npm install
 ```
 Po zainstalowaniu zależności, można uruchomić projekt za pomocą polecenia:
